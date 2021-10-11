@@ -1,0 +1,11 @@
+-charset 'UTF-8'
+-classpath 'D:\\CEIBA\\hiring-exercise-06\\build\\classes\\java\\main;D:\\CEIBA\\hiring-exercise-06\\build\\resources\\main'
+-d 'D:\\CEIBA\\hiring-exercise-06\\build\\docs\\javadoc'
+-doctitle 'hiring-exercise-06 1.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-footer 'Autor : Albeiro Silva'
+-notimestamp 
+-quiet 
+-stylesheetfile 'D:\\CEIBA\\hiring-exercise-06\\src\\main\\resources\\javadocStyles.css'
+-windowtitle 'hiring-exercise-06 1.0-SNAPSHOT API'
+'D:\\CEIBA\\hiring-exercise-06\\src\\main\\java\\com\\scotiabankcolpatria\\hiring\\CreditRiskAssessment.java'
